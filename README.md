@@ -1,6 +1,5 @@
-<video width="850" height="200" src="https://github.com/Gutlopes/GutLopes/assets/153089572/3c6acd75-da5d-419d-a16a-18eb3a06ee25"/>
+<img width=100% bottom=50px  src="https://github.com/Gutlopes/GutLopes/assets/153089572/3aef8c37-fcb3-42a0-8617-500d627cea46"/>
 
-</video>
 
 <br>
 <br> 
