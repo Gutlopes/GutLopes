@@ -1,8 +1,10 @@
-<img width=100% bottom=50px src="https://github.com/Gutlopes/GutLopes/assets/153089572/39f8aeac-a38e-4b43-a02d-4db297deedd8"/>
+<video width=100% bottom=50px src="https://github.com/Gutlopes/GutLopes/assets/153089572/3c6acd75-da5d-419d-a16a-18eb3a06ee25"/>
+
+</video>
+
 <br>
 <br> 
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=300&size=40&duration=4000&pause=1000&color=F7960C&center=true&vCenter=true&random=false&width=1000&lines=Hi+Guys%2C+my+name+is+Gustavo+Lopes;I'm+a+Back+End+Developer;Welcome+to+my+GitHub)](https://git.io/typing-svg)
 
 <div align="center">
   
