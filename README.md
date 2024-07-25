@@ -13,16 +13,16 @@
 
 <div align="center"> 
 <a  href="https://www.linkedin.com/in/gustavo-lopeseng/" target=_blank>
-<img align="center"  height="80" width="80" src="https://github.com/Gutlopes/GutLopes/assets/153089572/15ad1f2a-7b78-4cdc-aaf6-0441bccd3cfa">
+<img align="center"  height="70" width="70" src="https://github.com/Gutlopes/GutLopes/assets/153089572/15ad1f2a-7b78-4cdc-aaf6-0441bccd3cfa">
 </a>
 
 </div>
 
-###  Studying in this moment:
+###  Studying:
 <div align="left"> 
   
-<img align="left" height="84" width="84" src="https://github.com/Gutlopes/GutLopes/assets/153089572/b1dff6e0-4713-4a5f-b918-ae312c15af6f">
+<img align="left" height="70" width="70" src="https://github.com/Gutlopes/GutLopes/assets/153089572/b1dff6e0-4713-4a5f-b918-ae312c15af6f">
 
-<img align="left" height="80" width="80" src="https://github.com/Gutlopes/GutLopes/assets/153089572/94f8fc35-852e-464c-8813-59cc4d501445">
+<img align="left" height="70" width="70" src="https://github.com/Gutlopes/GutLopes/assets/153089572/94f8fc35-852e-464c-8813-59cc4d501445">
 
 </div>
